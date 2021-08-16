@@ -1,0 +1,30 @@
+태그 tag
+<strong> 강조
+<u> 밑줄
+<h1> ~<h6> 제목
+<br> 줄바꿈
+<p> 단락 <p style="margin-top:45px>
+
+<img width="100%" src="image.jpg"> 이미지 삽입
+
+<li> 목차 자식태그
+<ul> 부모태그 unordered list
+<ol> 번호있는 목차 ordered list
+
+<table> table
+  <tr> table row
+    <td> table cell
+
+<title> web 제목
+
+<meta charset="utf-8"> 본문이 utf-8 형식으로 저장되어 있다
+
+<!DOCTYPE html>
+<html> 
+<head>
+<body>
+
+<a href="https://www.w3.org/TR/html52/" target="_blank" title="html5 specification">
+      Hypertext Markup Language (HTML)</a>
+
+링크 걸기 
